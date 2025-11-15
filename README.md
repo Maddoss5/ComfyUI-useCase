@@ -29,7 +29,6 @@ Results are as follows :
 <img width="1344" height="768" alt="ComfyUI_00050_" src="https://github.com/user-attachments/assets/4f222096-9cd1-4037-a48e-dd0d6845eab4" />
 <img width="1344" height="768" alt="ComfyUI_00049_" src="https://github.com/user-attachments/assets/0e8d19dd-efb8-4543-9604-4c6e45ce2a88" />
 <img width="1344" height="768" alt="ComfyUI_00048_" src="https://github.com/user-attachments/assets/97035fde-caa1-495c-86b2-c445cb6cca92" />
-<img width="1536" height="640" alt="ComfyUI_00042_" src="https://github.com/user-attachments/assets/f4f5ee0d-748c-49f2-b60c-1e28d608ee4b" />
 <img width="1024" height="1024" alt="ComfyUI_00029_" src="https://github.com/user-attachments/assets/84dfcc5a-eef6-42aa-8b6c-45003041bee6" />
 <img width="1024" height="1024" alt="ComfyUI_00028_" src="https://github.com/user-attachments/assets/0cca5eb7-beb7-4cb6-b0d1-ca5912b0eebe" />
 <img width="1024" height="1024" alt="ComfyUI_00027_" src="https://github.com/user-attachments/assets/814e769b-045a-474e-9a47-6c2844ab88fa" />
