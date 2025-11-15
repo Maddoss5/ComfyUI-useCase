@@ -1,6 +1,11 @@
 Base Model used : https://civitai.com/models/133005/juggernaut-xl 
+
 Used LORA : https://civitai.com/models/229213/extremely-detailed-no-trigger-slidersntcaixyz?modelVersionId=383563
+
 Base model: SDXL1.0
+
+Juggernaut prompt info: https://learn.rundiffusion.com/prompt-guide-for-juggernaut-xiii-ragnarok-by-rundiffusion/
+
 Works on low VRAM GPU < 12GB. 
 
 Results are as follows : 
